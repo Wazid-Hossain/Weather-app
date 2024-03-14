@@ -69,7 +69,7 @@ body{
     margin-top: -10px;
 }
 
-.details{
+.dt{
     display: flex;
     align-items: center;
     justify-content: space-between;
